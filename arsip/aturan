@@ -1,0 +1,106 @@
+# README – Aturan Arsip Pengetahuan
+
+Arsip ini disusun sebagai **ruang belajar bersama**, bukan sebagai klaim kepemilikan program atau unit tertentu.  
+Tujuannya agar setiap orang yang masuk, terutama staf baru atau pindahan, dapat memahami konteks kerja, proses berpikir, dan perjalanan substansi secara mandiri.
+
+---
+
+## 🎯 Prinsip Dasar
+1. **Substansi lebih utama daripada waktu**
+2. **Fungsi lebih penting daripada struktur organisasi**
+3. **Arsip adalah alat belajar, bukan sekadar simpanan**
+4. **Dokumen lama tidak dihapus, karena proses juga bernilai**
+
+---
+
+## 🗂️ Struktur Arsip
+Folder utama disusun berdasarkan **fungsi/substansi**, bukan tahun atau penyakit:
+
+- `NSPK/`
+- `KIE/`
+- `Medsos/`
+- `Quitline.INA/`
+- `Analisis/`
+- `Referensi/`
+- `Dokumentasi/`
+
+Tahun dan konteks program ditunjukkan di **nama file**, bukan di level folder utama.
+
+---
+
+## 🏷️ Aturan Penamaan File
+Gunakan format berikut secara konsisten:
+
+
+### Contoh:
+- `2023_KTR_Panduan_Kawasan_Tanpa_Rokok.pdf`
+- `2022_Lintas_PTM_Modul_Konseling_Berhenti_Merokok.pdf`
+- `2020_PPAT_Naskah_Akademik_RUU_Tembakau.md`
+
+---
+
+## 📅 Tahun
+- Tahun **wajib ditulis di depan**
+- Jika ada revisi, tambahkan versi:
+  - `2023_KTR_Panduan_KTR_v2.pdf`
+
+Dokumen dengan topik sama di tahun berbeda **tidak dianggap duplikat**, melainkan bagian dari evolusi kebijakan dan praktik.
+
+---
+
+## 🧠 Program / Substansi
+Gunakan penanda substansi, bukan nama unit atau individu, misalnya:
+- `KTR`
+- `Berhenti_Merokok`
+- `GGL`
+- `Lintas_PTM`
+- `PPAT`
+
+---
+
+## 📄 Jenis Dokumen
+Gunakan istilah yang jelas dan konsisten, seperti:
+- `Panduan`
+- `Pedoman`
+- `SOP`
+- `Modul`
+- `Naskah_Akademik`
+- `KIE`
+- `Laporan`
+- `Materi_Pelatihan`
+
+---
+
+## 📸 Dokumentasi
+Foto, video, dan audio disimpan terpisah di folder `Dokumentasi/`  
+Dokumentasi berfungsi sebagai **pendukung konteks**, bukan sumber kebijakan utama.
+
+---
+
+## 🤍 Catatan Etik
+Arsip ini berisi:
+- bahan proses
+- naskah kerja
+- prototipe
+- materi pembelajaran
+- analisis dan refleksi
+
+Arsip ini **tidak menggantikan** dokumen resmi struktural, dan tidak dimaksudkan sebagai sumber keputusan formal.
+
+---
+
+Disusun untuk memudahkan regenerasi pengetahuan  
+dan menjaga agar proses baik tidak hilang begitu saja.
+
+
+Contoh 
+
+
+## 🏷️ Aturan Penamaan File
+Gunakan format berikut secara konsisten:
+
+[Tahun][Program/Substansi][JenisDokumen]_[TopikSingkat].ext
+
+
+Format ini digunakan untuk membantu pengurutan otomatis, pencarian cepat,  
+dan memudahkan staf baru memahami konteks dokumen tanpa harus membukanya.
